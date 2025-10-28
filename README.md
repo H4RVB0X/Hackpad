@@ -1,4 +1,7 @@
 # Macropad
+
+<img src=assets/pcb3d.png alt="Schematic" width="500"/>
+
 Macropad is a 6 key pad with a rotary encoder, an OLED display and 12 LED's. It uses KMK firmware.
 
 It is inspired by the Hackpad YSWS (which has now ended so it is a now a hackpad blueprint)
