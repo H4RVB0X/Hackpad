@@ -18,3 +18,9 @@ I designed the schematic for my macroboard. I first added all the parts I wanted
 
 I then routed the PCB. This proved quite challenging to begin with as it was just a bunch of wires everywhere. I then slowly understood it and aligned my parts so that the wiring would be easier as they are all in order. I used a mix of front and back wires with viaducts so that it would all be able to fit. It took me 2 or 3 tries to fully get it right due to rearranging parts. The final result is a bit messy in wiring but it works for me.  
 
+## 10/28/2025 2:39 PM - CAD  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIxNywicHVyIjoiYmxvYl9pZCJ9fQ==--c68287f2f6db1b7e92cc675ed9dfb58aa0f10373/image.png)
+Now, I needed to design the case for the macropad. This was quite easy as I have experience using solidworks. I just had to lay out the size of the pcb and add a 2mm allowance. I then added walls and then filleted them so it looks better and has less sharp edges. Then I added the holes for the screws. Next, I added the slot for the Type - C port of the the microcontroller. Finally I added the slant to the bottom. This didnt take me too long and has given me a simplistic open design case.
+  
+
