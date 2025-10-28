@@ -6,9 +6,15 @@
   ==================================================================
 -->
 
-## 10/28/2025 - Made the schematic  
+## 10/28/2025 2:33 PM - Made the schematic  
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--b23ead4ca042eac9dccddfa6b3e0b9b43699ac60/image.png)
 
 I designed the schematic for my macroboard. I first added all the parts I wanted then seperated them so that i can wire it easily. I used labels to decrease the amount of wires going from the sections of parts to the microcontroller. It was a challenge at first knowing what to wire to where but I eventually figured it all out. I first had more switches and 2 rotary encoders but quickly realised the microcontroller doesnt have enough room for everything so I changed it. For my first time usign KiCad im quite happy with my final result.  
+
+## 10/28/2025 2:36 PM - Routed the PCB  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--383c531311a5f0d121e416945deef2b1e186e3b1/image.png)
+
+I then routed the PCB. This proved quite challenging to begin with as it was just a bunch of wires everywhere. I then slowly understood it and aligned my parts so that the wiring would be easier as they are all in order. I used a mix of front and back wires with viaducts so that it would all be able to fit. It took me 2 or 3 tries to fully get it right due to rearranging parts. The final result is a bit messy in wiring but it works for me.  
 
