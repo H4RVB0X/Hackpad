@@ -24,3 +24,8 @@ I then routed the PCB. This proved quite challenging to begin with as it was jus
 Now, I needed to design the case for the macropad. This was quite easy as I have experience using solidworks. I just had to lay out the size of the pcb and add a 2mm allowance. I then added walls and then filleted them so it looks better and has less sharp edges. Then I added the holes for the screws. Next, I added the slot for the Type - C port of the the microcontroller. Finally I added the slant to the bottom. This didnt take me too long and has given me a simplistic open design case.
   
 
+## 10/28/2025 2:45 PM - Firmware  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ed7aa3e0162dce0ee98543db08b4a53b3dd7e37/image.png)
+This part was challenging as I have never used KMK or any sort of keyboard firmware. I wanted to have 3 different layers so I have more options on what I can do with it. With some research I was slowly able to code it. I made the RGB a different colour for each layer and the OLED for now say what layer it is on. In the future I want to switch to QMK and maybe try getting temps to go on the OLED screen.  
+
